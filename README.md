@@ -22,7 +22,7 @@ Android Studio
 ,VS Code
 
 
-## 📈 GitHub Stats & Top Languages
+## 📈 GitHub Stats, Top Languages & Streak
 <table>
   <tr>
     <td>
@@ -31,13 +31,12 @@ Android Studio
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usman-kha9&layout=compact" alt="Top Languages"/>
     </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=usman-kha9&theme=radical&hide_border=true" alt="GitHub Streak"/>
+    </td>
   </tr>
 </table>
 
----
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UsmanKha9&theme=tokyonight)
 
 
 ## 🌐 Connect with Me
