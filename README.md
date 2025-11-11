@@ -43,6 +43,6 @@ Goal🎯: Contribute to Flutter SDK someday.
 
 
 🌐 Connect with Me:
-[![LinkedIn](https://www.linkedin.com/in/usman-khan-780093385/)
+[LinkedIn](https://www.linkedin.com/in/usman-khan-780093385/)
 [Fiver](https://www.fiverr.com/usman_kha9/buying?source=avatar_menu_profile)
 
