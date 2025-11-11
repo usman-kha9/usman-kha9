@@ -21,15 +21,21 @@ Goal🎯: Contribute to Flutter SDK someday.
 .Git
 .VS Code
 
-📈 GitHub Stats
-![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=usman-kha9&show_icons=true&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=usman-kha9)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usman-kha9&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com?user=usman-kha9&theme=tokyonight)](https://git.io/streak-stats)
-
-🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/usman-khan)
+🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/usman-kha9) 
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/usman_kha9)
+
+---
+
+📈 GitHub Stats
+| GitHub Stats | Most Used Languages |
+|--------------|------------------|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=usman-kha9&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usman-kha9&layout=compact) |
+
+---
+
+ GitHub Streak🔥
+[![GitHub Streak](https://streak-stats.demolab.com?user=usman-kha9&theme=tokyonight)](https://git.io/streak-stats)
 
 
 
