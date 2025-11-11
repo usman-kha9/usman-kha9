@@ -27,23 +27,13 @@ Goal🎯: Contribute to Flutter SDK someday.
 
 ---
 
-## 📈 GitHub Stats
+📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=usman-kha9&show_icons=true&theme=radical)
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=usman-kha9&show_icons=true&theme=radical" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usman-kha9&layout=compact" alt="Top Languages"/>
-    </td>
-    <td>
-      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=usman-kha9&theme=radical&hide_border=true" alt="GitHub Streak"/>
-      </a>
-    </td>
-  </tr>
-</table>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usman-kha9&layout=compact)
+
+🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=usman-kha9&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 
 
