@@ -1,4 +1,4 @@
-## Hi there, I'm usman!👋
+Hi there, I'm usman!👋
 
 I’m a Full-Stack **Flutter & Dart Developer** passionate about building modern, scalable, and high-performing mobile applications. I specialize in crafting seamless user experiences using Flutter and Dart, from frontend design to backend integration. With a strong focus on clean architecture, performance optimization, and innovative UI, I love turning ideas into powerful, real-world apps that make an impact.
 
