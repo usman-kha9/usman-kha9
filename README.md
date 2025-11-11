@@ -1,19 +1,5 @@
 ## Hi there, I'm usman!👋
 
-<!--
-**usman-kha9/usman-kha9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 I’m a Full-Stack **Flutter & Dart Developer** passionate about building modern, scalable, and high-performing mobile applications. I specialize in crafting seamless user experiences using Flutter and Dart, from frontend design to backend integration. With a strong focus on clean architecture, performance optimization, and innovative UI, I love turning ideas into powerful, real-world apps that make an impact.
 
 About me: I'm a Software Engener Student Working on open source Dart packages Learning advanced Flutter animations-
@@ -43,6 +29,8 @@ Goal🎯: Contribute to Flutter SDK someday.
 
 
 🌐 Connect with Me:
-[LinkedIn](https://www.linkedin.com/in/usman-khan-780093385/)
-[Fiver](https://www.fiverr.com/usman_kha9/buying?source=avatar_menu_profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-linkedin-usman-khan-780093385)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/your-fiverr-usman-kha9)
+
+
 
