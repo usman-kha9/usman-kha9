@@ -21,6 +21,7 @@ Goal🎯: Contribute to Flutter SDK someday.
 .Git
 .VS Code
 
+
 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/usman-kha9) 
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/usman_kha9)
@@ -32,8 +33,11 @@ Goal🎯: Contribute to Flutter SDK someday.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usman-kha9&layout=compact)
 
+---
+
 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=usman-kha9&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=usman-kha9&theme=tokyonight)](https://git.io/streak-stats)
+
 
 
 
