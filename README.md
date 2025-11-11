@@ -43,9 +43,7 @@ Goal🎯: Contribute to Flutter SDK someday.
 ---
 
 ## 🔥 GitHub Streak
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=usman-kha9&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</a>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UsmanKha9&theme=tokyonight)
 
 
 
