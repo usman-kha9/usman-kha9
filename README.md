@@ -33,7 +33,8 @@ Goal🎯: Contribute to Flutter SDK someday.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usman-kha9&layout=compact)
 
 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=usman-kha9&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=usman-kha9&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
 
 
 
