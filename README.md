@@ -5,7 +5,7 @@ I’m a Full-Stack **Flutter & Dart Developer** passionate about building modern
 About me: I'm a Software Engener Student Working on open source Dart packages Learning advanced Flutter animations-
 Goal🎯: Contribute to Flutter SDK someday.
 
-💻 Programming Languages:
+**💻 Programming Languages:**
 Dart
 ,C++
 ,JavaScript
@@ -13,16 +13,16 @@ Dart
 ,HTML
 ,CSS
 
-⚙️ Frameworks & Libraries:
+**⚙️ Frameworks & Libraries:**
 Flutter
 
-🧩 Tools & Environments:
+**🧩 Tools & Environments:**
 Android Studio
 ,Git
 ,VS Code
 
 
-📈 GitHub Stats, Top Languages & Streak
+**📈 GitHub Stats, Top Languages & Streak**
 <table>
   <tr>
     <td>
@@ -40,7 +40,7 @@ Android Studio
 
 
 
-🌐 Connect with Me
+**🌐 Connect with Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/usman-kha9)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/usman_kha9)
 
