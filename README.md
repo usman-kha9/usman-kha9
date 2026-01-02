@@ -8,13 +8,13 @@ I’m a Full-Stack **Flutter & Dart Developer** passionate about building modern
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=usman-kha9&show_icons=true&theme=radical" alt="GitHub Stats"/>
+      ![](https://github-readme-stats.vercel.app/api?username=usman-kha9&show_icons=true&theme=radical)
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usman-kha9&layout=compact" alt="Top Languages"/>
+      ![](https://github-readme-stats.vercel.app/api/top-langs/?username=usman-kha9&layout=compact)
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=usman-kha9&theme=radical&hide_border=true" alt="GitHub Streak"/>
+      ![](https://streak-stats.demolab.com?user=usman-kha9&theme=radical&hide_border=true)
     </td>
   </tr>
 </table>
